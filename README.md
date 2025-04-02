@@ -8,8 +8,14 @@ A sophisticated chatbot framework with Groq/OpenAI integration, featuring:
 - Support for multiple LLM providers
 - Web search capabilities via Tavily
 
-![Chatbot Demo]([demo/AI_Agent_Chatbot_GIF.gif](https://github.com/sdburde/AI-Agent-Chatbot/blob/main/demo/AI_Agent_Chatbot_GIF.gif)) *demo/AI_Agent_Chatbot_GIF.gif*
+![Chatbot Demo](demo/AI_Agent_Chatbot_Demo.gif)  
+*Example conversation flow with web search enabled*
 
+## Alternative GIF Embedding Options:
+
+1. **GitHub Relative Path** (if GIF is in repo):
+   ```markdown
+   ![Demo](demo/AI_Agent_Chatbot_Demo.gif)
 ## 🚀 Features
 
 - **Multi-Provider Support**: Switch between Groq and OpenAI models
