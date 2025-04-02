@@ -1,22 +1,19 @@
-
-```markdown
 # AI Agent Chatbot
 
+```
 A sophisticated chatbot framework with Groq/OpenAI integration, featuring:
 - Streamlit frontend with conversation history
 - FastAPI backend for AI processing
 - Support for multiple LLM providers
 - Web search capabilities via Tavily
-
 ```
-
 
 ![Chatbot Demo](https://github.com/sdburde/AI-Agent-Chatbot/blob/main/demo/AI_Agent_Chatbot_GIF_1.gif)
 
 
-```
-## 🚀 Features
 
+## 🚀 Features
+```
 - **Multi-Provider Support**: Switch between Groq and OpenAI models
 - **Conversation Memory**: Full chat history with user/agent differentiation
 - **Web Search Integration**: Optional real-time web search for responses
@@ -24,10 +21,10 @@ A sophisticated chatbot framework with Groq/OpenAI integration, featuring:
   - Streamlit for interactive frontend
   - FastAPI for robust backend
   - LangChain/LangGraph for AI orchestration
-
+```
 
 ## 📦 Project Structure
-
+```
 AI-Agent-Chatbot/
 ├── ai_agent_chatbot/       # Conda environment
 ├── __pycache__/
