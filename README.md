@@ -11,7 +11,7 @@ A sophisticated chatbot framework with Groq/OpenAI integration, featuring:
 ```
 
 
-![Chatbot Demo](demo/AI_Agent_Chatbot_Demo.gif)
+![Chatbot Demo](https://github.com/sdburde/AI-Agent-Chatbot/blob/main/demo/AI_Agent_Chatbot_GIF.gif)
 
 
 ```
