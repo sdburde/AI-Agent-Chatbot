@@ -8,8 +8,13 @@ A sophisticated chatbot framework with Groq/OpenAI integration, featuring:
 - Support for multiple LLM providers
 - Web search capabilities via Tavily
 
-![Chatbot Demo](demo/AI_Agent_Chatbot_GIF.gif) *demo/AI_Agent_Chatbot_GIF.gif*
+```
 
+
+![Chatbot Demo](https://github.com/sdburde/AI-Agent-Chatbot/blob/main/demo/AI_Agent_Chatbot_GIF.gif)
+
+
+```
 ## 🚀 Features
 
 - **Multi-Provider Support**: Switch between Groq and OpenAI models
@@ -20,9 +25,9 @@ A sophisticated chatbot framework with Groq/OpenAI integration, featuring:
   - FastAPI for robust backend
   - LangChain/LangGraph for AI orchestration
 
+
 ## 📦 Project Structure
 
-```
 AI-Agent-Chatbot/
 ├── ai_agent_chatbot/       # Conda environment
 ├── __pycache__/
